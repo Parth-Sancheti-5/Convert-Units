@@ -30,13 +30,8 @@ Welcome to **Convert Units**, the app that redefines the unit conversion experie
 
 ## 🌍 Supported Units 🌍
 Convert Units supports a wide variety of units including but not limited to:
-- Length
-- Weight
-- Volume
-- Area
-- Currency
-- Digital Storage
-- Temperature
+
+<a href="https://docs.google.com/document/d/1aUGusQAuy3L9p67dm3Cl5QKn0-gpwsJSZkxKwtgYtHU/edit?usp=drive_link"><image src="https://github.com/user-attachments/assets/e12577aa-c1fb-41ed-af0f-120a23db667e" height="100" width="100" ></a>
 
 ---
 
